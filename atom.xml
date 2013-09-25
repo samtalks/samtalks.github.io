@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://samtalks.github.io/atom.xml" rel="self"/>
   <link href="http://samtalks.github.io/"/>
-  <updated>2013-09-24T20:05:48-04:00</updated>
+  <updated>2013-09-24T20:07:47-04:00</updated>
   <id>http://samtalks.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[hello world]]></title>
+    <link href="http://samtalks.github.io/blog/2013/09/24/hello-world/"/>
+    <updated>2013-09-24T20:07:00-04:00</updated>
+    <id>http://samtalks.github.io/blog/2013/09/24/hello-world</id>
+    <content type="html"><![CDATA[<p>Help world.</p>
+
+<p>This is the first post, a test post.</p>
+
+<p>Edits to come later&hellip;</p>
+]]></content>
+  </entry>
   
 </feed>
