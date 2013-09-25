@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://samtalks.github.io/sitemap.xml 
